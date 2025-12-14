@@ -14,6 +14,9 @@ Hey I AM  Nidhi Sahu
 - 🎧 Music helps me focus while coding.  
 - 🌱 I’m learning backend to become a full-stack developer.
 
+- ##  Experience
+- I had completed internship at White Force 
+
 - <h1 align="center">Hi 👋, I'm Nidhi Sahu</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
